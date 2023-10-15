@@ -15,3 +15,18 @@ nav {
   color: #fff;
   text-decoration: none;  text-decoration: underline overline;
 }
+
+aside {
+  position: fixed;
+  right: 0%;
+  background-color; red;
+  height: 100%;
+  width: 20%;
+  list-style-type: none;
+  text-align: center;
+  display: block;
+  padding: 15px 0;
+  color #fff;
+  text-decoration: none;
+  background-color: #000;
+}
